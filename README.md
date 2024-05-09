@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on other web developers
 - 📫 How to reach me abrsh6321@gmail.com
 - 😄 Pronouns:native
-- ⚡ Fun fact: i'm xtrovertt 
+- ⚡ Fun fact: i'm extrovert
+- 
 
 <!---
 Abduman21/Abduman21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
