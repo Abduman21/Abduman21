@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abduman21
+- 👋 Hi, I’m @Abdulmalik muze
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning in university 
 - 💞️ I’m looking to collaborate on other web developers
